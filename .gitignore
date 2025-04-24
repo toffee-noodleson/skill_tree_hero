@@ -13,3 +13,6 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Obsidian
+skill_tree_hero_docs/.obsidian/*
